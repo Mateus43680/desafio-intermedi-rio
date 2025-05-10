@@ -1,2 +1,2 @@
-# desafio-intermedi-rio
+# desafio-intermediario
 Trabalho intermediário criação repositório da disciplina 
